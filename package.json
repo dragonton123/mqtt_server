@@ -1,0 +1,17 @@
+{
+  "name": "hydroponic_mqtt_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "mysql": "^2.16.0",
+    "node-fetch": "^2.2.0",
+    "request": "^2.88.0"
+  }
+}
